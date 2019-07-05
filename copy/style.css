@@ -1,0 +1,17 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+	display: flex;
+	margin: 0;
+	padding: 0;
+}
+
+
+button {
+	font-family: helvetica, sans-serif;
+	font-size: 24pt;
+	border: none;
+	flex-basis: 100%;
+	text-align: center;
+}
